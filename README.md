@@ -6,7 +6,7 @@
   -  Search
  books from Local Storage
 
-<hr>
+
 Developed Using:
   - [BootStrap](https://getbootstrap.com/)
   - [Pure JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
