@@ -1,10 +1,14 @@
 # BookList App
 
-#### Add, Remove and Search books from Local Storage
+#### What it does? 
+  - ###### Add
+  - ###### Remove/Delete
+  - ###### Search
+books from Local Storage
 
 Developed Using:
   - [BootStrap](https://getbootstrap.com/)
   - [Pure JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-![BookListApp Image]()
+![BookListApp Image](https://raw.githubusercontent.com/prakrutivaghasiya/book-list-javascript/master/booklist.png)
