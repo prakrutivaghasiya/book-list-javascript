@@ -12,6 +12,7 @@
         <h1 class="display-4 text-center">
             <i class="fas fa-book-reader text-primary mr-4"></i>
             My<span class="text-primary">Book</span>List App!</h1>
+        <hr>
         <form id="book-form" class="mt-4">
             <div class="form-group">
                 <label for="title">Title</label>
@@ -28,6 +29,14 @@
             <input type="submit" value="Add Book" 
             class="btn btn-primary btn-block btn-lg">
         </form>
+        <nav class="navbar navbar-light justify-content-between mt-4">
+            <a class="navbar-brand"></a>
+            <form class="form-inline">
+                <input id='search' class="form-control mr-sm-2" type="search" placeholder="Search Books..."
+                    aria-label="Search">
+                <button id='search-btn' class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </nav>
         <table class="table table-stripped mt-5">
             <thead style="font-size: large;">
                 <tr>
